@@ -1,6 +1,6 @@
 {
   "name": "Tip Jar",
   "description": "WebXR tip jar",
-  "xr_type": "webxr-site@0.0.1",
-  "start_url": "index.html"
+  "xr_type": "gltf@0.0.1",
+  "start_url": "assets/piggy.glb"
 }
